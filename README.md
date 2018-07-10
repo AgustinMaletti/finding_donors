@@ -1,3 +1,3 @@
 # finding_donors
 
-Arquivos para Udacity riview.
+Arquivos para Udacity review.
